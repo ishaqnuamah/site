@@ -1,0 +1,242 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #361500;
+  font-size: 1.3rem;
+  top: 50px;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  top: 0;
+  font-family: 'sacramento', cursive;
+  color: #361500;
+  font-size: 5rem;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #54BAB9;
+  font-weight: 900;
+}
+
+.para1 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #361500;
+  top: 450px;
+  font-size: 1.2rem;
+  padding-top: 15px;
+  width: 60%;
+  margin: 0 auto 100px auto;
+}
+
+.top-container {
+  background-color: #65C18C;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
+.middle-container {
+  background-color: #C1F4C5;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #F76E11;
+  padding: 50px 0 20px;
+}
+
+.sun3 {
+  width: 150px;
+  position: absolute;
+  top: 60px;
+  left: 370px;
+}
+
+.skyscaper {
+  width: 100%;
+  top: 0;
+  bottom: 0;
+}
+
+.cloud1 {
+  width: 300px;
+  position: absolute;
+  top: 0;
+  right: 150px;
+}
+
+.cloud2 {
+  width: 300px;
+  position: absolute;
+  top: 230px;
+  left: 200px;
+}
+
+.logo {
+  width: 70px;
+  position: absolute;
+  top: 50px;
+  left: 200px;
+}
+
+.birds {
+  width: 50px;
+  position: absolute;
+  top: 600px;
+  left: 300px;
+}
+
+.birds2 {
+  width: 250px;
+  position: absolute;
+  top: 400px;
+  right: 100px;
+}
+
+.profile1 {
+  width: 220px;
+  left: 50%;
+  top: 0;
+  ;
+}
+
+.head2 {
+  color: #361500;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 0
+}
+
+.para2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  width: 60%;
+  margin: 0 auto 100px auto;
+  line-height: 2;
+  font-weight: bolder;
+  padding-top: 15px;
+}
+
+hr {
+  border: dotted #FFBC80 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.head3 {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+  color: #54BAB9;
+  font-weight: 900;
+  text-align: left;
+}
+
+.head5 {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+  color: #F76E11;
+  text-align: center;
+  font-weight: 900;
+}
+
+.skills {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 1.3rem;
+}
+
+.gif1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+  border: 5px solid #54BAB9
+}
+
+.gif2 {
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+  border: 5px solid #F76E11
+}
+
+.profile1 {
+  width: 200px;
+  height: 200px;
+  ;
+  border: 5px solid #FF9F45;
+  border-radius: 50%
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.head6 {
+  text-align: center;
+  color: #F76E11;
+}
+
+.head7 {
+  text-align: center;
+  color: #F76E11
+}
+
+.contact-message {
+  text-align: center;
+  padding-bottom: 50px; width: 40%;
+  margin: auto;
+
+}
+
+.btn {
+  background: #F76E11;
+  background-image: -webkit-linear-gradient(top, #F76E11, #F14A16);
+  background-image: -moz-linear-gradient(top, #F76E11, #F14A16);
+  background-image: -ms-linear-gradient(top, #F76E11, #F14A16);
+  background-image: -o-linear-gradient(top, #F76E11, #F14A16);
+  background-image: linear-gradient(to bottom, #F76E11, #F14A16);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F14A16;
+  background-image: -webkit-linear-gradient(top, #F14A16, #EA5C2B);
+  background-image: -moz-linear-gradient(top, #F14A16, #EA5C2B);
+  background-image: -ms-linear-gradient(top, #F14A16, #EA5C2B);
+  background-image: -o-linear-gradient(top, #F14A16, #EA5C2B);
+  background-image: linear-gradient(to bottom, #F14A16, #EA5C2B);
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #040303
+}
